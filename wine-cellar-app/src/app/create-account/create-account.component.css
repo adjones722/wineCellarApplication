@@ -1,0 +1,22 @@
+label {
+    font-size: large;
+    font-weight: bolder;
+
+}
+form {
+    background-color: blanchedalmond;
+    border-radius: 12px;
+    height: 60%;
+    width: 80%;
+    margin: 3em 3em 3em 3em;
+    padding: 1em 1em 1em 1em;
+    border-style: outset;
+    border-width: .5em;
+    border-radius: 12px;
+    border-color: black;
+    
+}
+
+h1 {
+    font-weight: bold;
+}
