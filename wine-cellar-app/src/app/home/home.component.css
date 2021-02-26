@@ -1,0 +1,68 @@
+
+.homeTable {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.homeTable tr {
+
+    padding-bottom: 2em;    
+    height: 80%;
+    width: 100%;
+    align-content: center;
+    
+
+}
+
+.homeTable td {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.homeTable h1 {
+    font-size: 2.5em;
+}
+
+/*
+.homeTable tr {
+    height: 10%;
+    
+}
+
+.homeTable td{
+    
+    height: 100%;
+    width: 18em;
+    
+    
+}
+
+#homeCaption {
+    padding-top: 1em;
+}
+*/
+
+Button {
+
+    width: 10em;
+    height: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: cornsilk;
+    background-color:brown;
+    border-radius: 12px;
+
+    
+}
+
+Button:hover {
+
+    background-color: teal;
+    
+}

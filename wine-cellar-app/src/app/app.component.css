@@ -1,0 +1,73 @@
+/* You can add global styles to this file, and also import other style files */
+.header-container {
+    display: flex;
+    background-color: #571717;
+    height: 10%;
+    
+}
+
+
+.labelHead {
+    margin-top: 0em;
+    width: 100%;
+    background-image: url('./images/corks.jpeg');
+}
+
+
+.labelHead Button {
+
+    width: 10%;
+    height: 90%;
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: Large;
+    font-weight: bolder;
+    color: cornsilk;
+    background-color:brown;
+    border-radius: 12px;
+}
+
+
+.footerHead {
+    background-image: url('./images/corks.jpeg');
+    width: 100%;
+    margin-bottom: 0em;
+}
+
+.main-container {
+    display: flex;
+    background-image: url('./images/amy-chen-LffQyvibxUs-unsplash.jpg');
+    justify-content: center;
+    outline-color: whitesmoke;
+    outline-style: groove;
+    height: 85%;    
+}
+
+
+.footer-container {
+    display: flex;
+    background-color: #571717;
+    height: 5%;
+    margin-bottom: 0%;
+    padding-bottom: 0;
+}
+
+.box-1 {
+    display: flex;
+    justify-content:center;
+    background-image: url('./images/freeWood.jpg');
+    width: 50%;
+    border: solid;
+    align-items: center;
+    padding-right: 4%;
+    padding-top: 5%;
+
+}
+
+.inner-box-1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 3em;
+    width: 50%;
+}
