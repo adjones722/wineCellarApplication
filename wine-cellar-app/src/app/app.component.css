@@ -1,16 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 .header-container {
     display: flex;
-    background-color: #571717;
+    /*background-color: ;*/
+    background-image: url('https://cdn.pixabay.com/photo/2015/09/13/20/48/background-938721_1280.jpg');
     height: 10%;
-    
+    border: none;    
 }
 
 
 .labelHead {
     margin-top: 0em;
     width: 100%;
-    background-image: url('./images/corks.jpeg');
+    
+    /*background-image: url('./images/corks.jpeg');*/
 }
 
 
@@ -29,7 +31,7 @@
 
 
 .footerHead {
-    background-image: url('./images/corks.jpeg');
+    /*background-image: url('./images/corks.jpeg');*/
     width: 100%;
     margin-bottom: 0em;
 }
@@ -38,15 +40,16 @@
     display: flex;
     background-image: url('./images/amy-chen-LffQyvibxUs-unsplash.jpg');
     justify-content: center;
-    outline-color: whitesmoke;
-    outline-style: groove;
+    /*outline-style: groove;*/
+    border: none ;
     height: 85%;    
 }
 
 
 .footer-container {
     display: flex;
-    background-color: #571717;
+    /*background-color: brown;*/
+    background-image: url('https://cdn.pixabay.com/photo/2015/09/13/20/48/background-938721_1280.jpg');
     height: 5%;
     margin-bottom: 0%;
     padding-bottom: 0;
@@ -57,8 +60,7 @@
     justify-content:center;
     background-image: url('./images/freeWood.jpg');
     width: 50%;
-    border-style: inset;
-    border-width: 5px;
+    border: none;
     align-items: center;
     padding-right: 2%;
     padding-top: 5%;

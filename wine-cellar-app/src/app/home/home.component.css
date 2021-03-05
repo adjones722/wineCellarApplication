@@ -38,6 +38,7 @@ Button {
     font-weight: bolder;
     color: cornsilk;
     background-color:brown;
+    border-style: inset;
     border-radius: 12px;
 
     
@@ -59,7 +60,7 @@ h1 {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     border-radius: 12px;
-    border-width: 0.5em;
+    border-width: 0.15em;
     border-style: inset;
     text-align: center;
 }

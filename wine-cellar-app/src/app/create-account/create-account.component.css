@@ -4,16 +4,19 @@ label {
 
 }
 form {
-    background-color: blanchedalmond;
+    /*background-color: blanchedalmond;*/
     border-radius: 12px;
     height: 60%;
+    color: white;
+    text-shadow: black 0px 0px .25em;
+    font-size: large;
     width: 80%;
     margin: 3em 3em 3em 3em;
     padding: 1em 1em 1em 1em;
-    border-style: outset;
-    border-width: .5em;
-    border-radius: 12px;
-    border-color: black;
+    /*border-style: inset;
+    border-width: .25em;
+    border-radius: 12px;*/
+    
     
 }
 
